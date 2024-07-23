@@ -3,6 +3,12 @@
 
 Welcome to the DLRGeoTweet project! This repository contains the dataset for the paper "DLRGeoTweet: A Comprehensive Social Media Geocoding Corpus Featuring Fine-Grained Places." The dataset includes five sub-datasets with approximately 7,000 tweets and 12,000 places from around the world, encompassing 6,000 fine-grained locations.
 
+The screenshot of the corpus is as follows:
+<p align="center">
+ <img src="figure/sample.png" width="700" >
+</p>
+
+
 Please note that for some tweets, the ID is missing. In these cases, we have synthesized an ID, such as '200000002'.
 
 To access the full dataset, please fill out [this form](#). Alternatively, you can download a subset containing 250 tweets from [this folder](https://drive.google.com/drive/folders/1nMDdxGi8qB-Q-JXt4NvOuNSjkb4YGEcg?usp=sharing).
@@ -24,9 +30,4 @@ If you use DLRGeoTweet or any of its components, please cite the following publi
 }
 ```
 
-Thank you for your interest in DLRGeoTweet! If you have any questions or need further assistance, please don't hesitate to reach out.
-The screenshot of the corpus is as follows:
-<p align="center">
- <img src="figure/anno12.png" width="700" >
-</p>
 
