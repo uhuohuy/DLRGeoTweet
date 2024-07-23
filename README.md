@@ -1,4 +1,3 @@
-Here's an improved version of your GitHub project description:
 
 # Introduction
 
