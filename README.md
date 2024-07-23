@@ -15,7 +15,7 @@ To access the full dataset, please fill out [this form](#). Alternatively, you c
 
 # Citation
 
-If you use DLRGeoTweet or any of its components, please cite the following publication:
+If you use DLRGeoTweet, please cite the following publication:
 
 ```bibtex
 @article{hu2024dlrgeotweet,
