@@ -11,7 +11,7 @@ The screenshot of the corpus is as follows:
 
 Please note that for some tweets, the ID is missing. In these cases, we have synthesized an ID, such as '200000002'.
 
-To access the full dataset, please fill out [this form](#). Alternatively, you can download a subset containing 250 tweets from [this folder](https://drive.google.com/drive/folders/1nMDdxGi8qB-Q-JXt4NvOuNSjkb4YGEcg?usp=sharing).
+To access the full dataset, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd7m2F1Hw7CAir0r2WkfItOROlVwhasQNMwQTKTPXbCgzjD0w/viewform?usp=sf_link). Alternatively, you can download a subset containing 250 tweets from [this folder](https://drive.google.com/drive/folders/1nMDdxGi8qB-Q-JXt4NvOuNSjkb4YGEcg?usp=sharing).
 
 # Citation
 
