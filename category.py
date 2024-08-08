@@ -34,7 +34,7 @@ def place_category(osm_type, osm_class):
         "river", "nature", "stream", "nature_reserve", "waterway", "natural"
     ]
 
-    houses = ["house", "building"]
+    houses = ["house"]
 
     pois = [
         "park", "POI", "aerodrome", "square", "marketplace", "pumping_rig",
