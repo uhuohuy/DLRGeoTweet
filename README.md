@@ -15,6 +15,8 @@ In our paper, we categorize places into six groups based on the OSM type and cla
 
 To access the full dataset, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd7m2F1Hw7CAir0r2WkfItOROlVwhasQNMwQTKTPXbCgzjD0w/viewform?usp=sf_link). Alternatively, you can download a subset containing 250 tweets from [this folder](https://drive.google.com/drive/folders/1nMDdxGi8qB-Q-JXt4NvOuNSjkb4YGEcg?usp=sharing).
 
+**Note**: Due to some reasons, the OSM ID and Place ID for the same object in official OSM data might change. This means that using the provided OSM ID or Place ID in the annotated data might retrieve the wrong object when using Nominatim. We are still working on resolving this issue.
+
 # Citation
 
 If you use DLRGeoTweet, please cite the following publication:
