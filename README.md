@@ -11,7 +11,7 @@ The screenshot of the corpus is as follows:
 
 Please note that the ID for some tweets is missing. In these cases, we have synthesized an ID, such as '200000002'.
 
-In our paper, we categorize places into six groups based on the OSM type and class features using [category.py](category.py), although this categorization might not be entirely accurate. You are welcome to define your own categories using the OSM type and class features.
+In our paper, we categorize places into six groups based on the OSM type and class features using [category.py](category.py), although this categorization might not be entirely accurate. You are free to define your own categories using the OSM type and class features.
 
 To access the full dataset, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd7m2F1Hw7CAir0r2WkfItOROlVwhasQNMwQTKTPXbCgzjD0w/viewform?usp=sf_link). Alternatively, you can download a subset containing 250 tweets from [this folder](https://drive.google.com/drive/folders/1nMDdxGi8qB-Q-JXt4NvOuNSjkb4YGEcg?usp=sharing).
 
